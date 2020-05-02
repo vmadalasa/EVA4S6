@@ -25,8 +25,8 @@ L2  + Ghost Batch Norm
 L1+L2 with GBN
 
 Observations • Without any loss functions the code ran for 40 epochs and the 
-best value of loss obtained was ~0.01623 with  L1+L2 with Ghost BN 
-Best value of accuracy was L2+GBN with 99.56
+/n best value of loss obtained was ~0.01623 with  L1+L2 with Ghost BN 
+/n Best value of accuracy was L2+GBN with 99.56
 
 So confidence in the higher in the model with L1+L2+GhostBN whereas L2 +GBN had better sensitivity maybe because l1 threw away some features that might be important bringing it down to zero
 
